@@ -1,4 +1,4 @@
-Lemons
+emons
 Bananas
 Broccoli
 More dog food and rabbit food
@@ -6,3 +6,5 @@ Cereal
 Bread
 Eggs
 Water
+Milk
+Cheese
