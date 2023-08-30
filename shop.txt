@@ -1,4 +1,4 @@
-Lemons
+emons
 Bananas
 Corn
 Rabbit Food
@@ -6,3 +6,4 @@ Cereal
 Bread
 Eggs
 Milk
+Cheese
